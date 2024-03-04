@@ -1,0 +1,8 @@
+id: "tc"
+password: "sifre"
+
+token: ""
+chat_id: ""
+
+url: "https://obs.yildiz.edu.tr/oibs/ogrenci/login.aspx"
+interval: 300 # refresh period
